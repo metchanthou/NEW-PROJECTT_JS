@@ -1,0 +1,200 @@
+body{
+    font-family: sans-serif;
+    background-image:url("/img/f2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin-top: 100px;
+} 
+.container{
+    text-align: center;
+} 
+h2{
+    color: wheat;
+}
+.complete{
+    box-shadow: 0 4px 4px 1px rebeccapurple;
+    max-width: 600px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;  	
+    font-family: Open sans;
+    display: none;
+}  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+#search{
+    width: 200px;
+    height: 25px;
+    margin-top: 200px;
+}
+#add{
+    width: 50px;
+    height:30px;
+    background-color: rgba(58, 172, 224, 0.966);
+    border: none;
+    
+}
+#name, #food, #price,#date{
+    width: 500px;
+    height: 5vh;
+    margin-top: 15px;
+}
+
+.times{
+    background: white;
+    width: 505px;
+    height: 5vh;
+    margin-left: 8%;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    text-transform: uppercase; 
+    padding-top: 5px;   
+    
+}
+
+#update, #ok{
+    width: 250px;
+    height: 35px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border: none;
+}
+#update:hover{
+    background-color: red;
+    color: white;
+}
+#ok:hover{
+    background-color: rgba(58, 172, 224, 0.966);
+    color: white;
+}
+
+/* css of element */
+.element{
+    
+    max-width: 600px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;  	
+    font-family: Open sans;
+    display: none;
+}
+.card1{
+    
+    width: 500px;
+    height: 70px;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.678);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    margin-top: 10%;
+    background: wheat;
+}
+
+h3{
+    margin-left: 15px;
+    color: rgb(2, 6, 7);
+}
+.btn{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+span, p{
+    margin-top: -10px;
+    margin-left: 15px;
+    margin-right: 2%;
+}
+.aa{
+    display: flex;
+    justify-content: space-between;
+}
+h3{
+    margin-top: -0.5%;
+}
+.bb{
+    display: flex;
+    margin-top: 2%;
+    margin-right: 10px;
+    
+}
+
+.date{
+    margin-right: 82%;
+
+}
+.edit{
+    background-color: teal;
+   
+    width: 25px;
+    text-align: center;
+    border-radius: 50%;
+    color: wheat;
+}   
+.delete{
+    background-color: red;
+   
+    width: 25px;
+    text-align: center;
+    border-radius: 50%;
+    color: wheat;
+    
+}
+.price{
+    color: red;
+    text-transform: capitalize;
+}
+.name{
+    margin-left: 55%;
+    color: rgb(240, 106, 17);
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.category{
+    width: 380px;
+    height: 15px;
+    margin-left: 22%;
+    margin-top: -3%;
+}
+.message{
+    margin-top: 2%;
+    margin-left: 22%;
+    padding: 5px;
+    background: grey;
+    width: 370px;
+    height: 35px;
+    border-radius: 5px;
+    display: none;
+    
+
+}
+
+.check{
+    margin-top: 50px;
+    display: none;
+}
+#find1, #find2{
+    background: teal;
+    width: 250px;
+    height: 5vh;
+    border: none;
+}
+#find1:hover{
+    background-color: orange;
+    color: white;
+}
+#find2:hover{
+    background: green;
+    color: white;
+    
+}
+h4{
+    color: white;
+}
+#yellow{
+    background: yellow;
+}
+
+
+
